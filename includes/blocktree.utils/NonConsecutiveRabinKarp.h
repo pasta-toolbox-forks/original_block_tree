@@ -5,6 +5,7 @@
 #ifndef BLOCKTREE_NONCONSECUTIVERABINKARP_H
 #define BLOCKTREE_NONCONSECUTIVERABINKARP_H
 
+#include <cstdint>
 #include <string>
 #include <queue>
 

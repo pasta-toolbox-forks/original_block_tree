@@ -5,6 +5,7 @@
 #ifndef BLOCKTREE_RABINKARP_H
 #define BLOCKTREE_RABINKARP_H
 
+#include <cstdint>
 #include <string>
 
 class RabinKarp {
